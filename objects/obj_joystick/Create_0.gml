@@ -4,7 +4,8 @@
 dir = 0;
 vel = 0;
 max_vel = 5;
-
+image_xscale = 1.5;
+image_yscale = 1.5;
 fazer = false;
 image_alpha = 0;
 
